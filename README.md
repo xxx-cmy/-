@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Welcome to Z.ai Code Scaffold
 
 A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development with [Z.ai](https://chat.z.ai)'s AI-powered coding assistance.
@@ -139,3 +140,7 @@ This scaffold includes a comprehensive set of modern web development tools:
 ---
 
 Built with ❤️ for the developer community. Supercharged by [Z.ai](https://chat.z.ai) 🚀
+=======
+# -
+教导小朋友认识钢琴音符的小游戏
+>>>>>>> b3930d9b5e1abf3505675bf8fe0dc7ff33f5481b
