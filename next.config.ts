@@ -2,13 +2,14 @@ import type { NextConfig } from "next";
 import withPWA from "next-pwa";
 
 const nextConfig: NextConfig = {
-  output: "standalone",
+  /*output: "standalone",*/
   typescript: {
     ignoreBuildErrors: true,
   },
   reactStrictMode: false,
   turbopack: {},
 };
+
 
 export default withPWA({
   dest: "public",
@@ -19,3 +20,4 @@ export default withPWA({
   scope: "/",
   buildExcludes: [/middleware-manifest\.json$/],
 })(nextConfig);
+
